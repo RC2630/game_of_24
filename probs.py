@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-from typing import Generator, Any
 from game_24 import SearchTree
 import pandas as pd
 
